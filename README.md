@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aI-che&" alt="aI-che" /></p>
 
+
+![snake gif](https://raw.githubusercontent.com/aI-che/aI-che/output/github-contribution-grid-snake.gif)
