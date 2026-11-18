@@ -7,6 +7,17 @@
 
 - 💬 Ask me about **Python, Java, Lua & SQL**
 
+<h3 align="left">Featured Projects:</h3>
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [WAT-Monitor](https://github.com/aI-che/WAT-Monitor) | Monitors Summer Work Travel pages, filters changes with AI and sends Gmail alerts | n8n · Docker · AI API |
+| [StreamFlex](https://github.com/aI-che/streamflex) | Streaming platform simulation built with State, Decorator and Strategy patterns | Java · OOP |
+| [Flight Passenger Log Converter](https://github.com/aI-che/flight-passenger-log-converter) | CLI tool: CSV → Binary → XML, XSD validation and encoding conversion | C · libxml2 |
+| [Kim? Kiminle? Nerede?](https://github.com/aI-che/Kim-Kiminle-Nerede-Game) | Console version of the classic Turkish paper game, vs computer or 2 players | Java |
+| [Music App](https://github.com/aI-che/music-app) | Finds songs on YouTube from the terminal, then plays them or saves them as MP3 | Python · yt-dlp |
+| [Bouncing Ball Game](https://github.com/aI-che/bouncing_ball_game) | 2D physics game with gravity and teleport portals | Python · Pygame |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eren-yılmaz-85b2302a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-yılmaz-85b2302a0" height="30" width="40" /></a>
